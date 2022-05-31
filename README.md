@@ -8,6 +8,6 @@ Con este ejercicio refresco mis conocimientos de NodeJs Y Javascript ademas de v
 
 ## Introducción a Node.js
 
-este servidor fue hecho siguiendo la Guia de [Introducción a Node.js](https://nodejs.dev/learn) usando el modulo [HTTP](https://nodejs.org/dist/latest-v16.x/docs/api/http.html) y el método  `createServer()`.
+Este servidor fue hecho siguiendo la Guía de [Introducción a Node.js](https://nodejs.dev/learn) usando el modulo [HTTP](https://nodejs.org/dist/latest-v16.x/docs/api/http.html) y el método  `createServer()`.
 
 
